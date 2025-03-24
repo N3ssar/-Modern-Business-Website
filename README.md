@@ -48,7 +48,7 @@ Template Three is a modern, responsive business website template built with HTML
 ### Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/template-three.git
+git clone https://github.com/n3ssar/template-three.git
 ```
 Navigate to the project directory:
 ```sh
@@ -90,8 +90,6 @@ The template includes JavaScript functionality for:
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - Design inspired by modern web trends
